@@ -1,0 +1,11 @@
+{
+  "name": "node.js.week.2",
+  "version": "1.0.0",
+  "description": "Node.JS week 2 assignment - ToDo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amjad83m",
+  "license": "ISC"
+}
